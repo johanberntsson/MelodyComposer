@@ -1,0 +1,5 @@
+This is a program that takes a song and a string of chords, and
+generates a new melody based on them.
+
+Build: javac Compose.java 
+Test:java Compose takeachance-solo.mid C:C:Am:Am:F:F
